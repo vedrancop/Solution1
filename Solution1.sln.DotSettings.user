@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3f1ce3bb_002D0d63_002D4882_002D96f2_002D97d9fcb9c814/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestReverseString" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::B1A948F4-EDBB-4CB4-9E8D-B5366803BEEC::net8.0::Tests.UnitTest1.TestReverseString&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b159b931_002Dbbe9_002D4fa9_002Da414_002Db49010d57627/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestReverseString #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::B1A948F4-EDBB-4CB4-9E8D-B5366803BEEC::net8.0::Tests.UnitTest1.TestReverseString&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B1A948F4-EDBB-4CB4-9E8D-B5366803BEEC::net8.0::Tests.UnitTest1.TestIsEaven&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B1A948F4-EDBB-4CB4-9E8D-B5366803BEEC::net8.0::Tests.UnitTest1.TestFindMax&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

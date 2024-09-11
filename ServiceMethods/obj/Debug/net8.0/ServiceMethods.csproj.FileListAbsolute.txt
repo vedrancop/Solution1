@@ -1,0 +1,11 @@
+C:\Users\Vedran\RiderProjects\Solution1\ServiceMethods\bin\Debug\net8.0\ServiceMethods.deps.json
+C:\Users\Vedran\RiderProjects\Solution1\ServiceMethods\bin\Debug\net8.0\ServiceMethods.dll
+C:\Users\Vedran\RiderProjects\Solution1\ServiceMethods\bin\Debug\net8.0\ServiceMethods.pdb
+C:\Users\Vedran\RiderProjects\Solution1\ServiceMethods\obj\Debug\net8.0\ServiceMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vedran\RiderProjects\Solution1\ServiceMethods\obj\Debug\net8.0\ServiceMethods.AssemblyInfoInputs.cache
+C:\Users\Vedran\RiderProjects\Solution1\ServiceMethods\obj\Debug\net8.0\ServiceMethods.AssemblyInfo.cs
+C:\Users\Vedran\RiderProjects\Solution1\ServiceMethods\obj\Debug\net8.0\ServiceMethods.csproj.CoreCompileInputs.cache
+C:\Users\Vedran\RiderProjects\Solution1\ServiceMethods\obj\Debug\net8.0\ServiceMethods.dll
+C:\Users\Vedran\RiderProjects\Solution1\ServiceMethods\obj\Debug\net8.0\refint\ServiceMethods.dll
+C:\Users\Vedran\RiderProjects\Solution1\ServiceMethods\obj\Debug\net8.0\ServiceMethods.pdb
+C:\Users\Vedran\RiderProjects\Solution1\ServiceMethods\obj\Debug\net8.0\ref\ServiceMethods.dll

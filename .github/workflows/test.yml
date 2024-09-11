@@ -1,0 +1,6 @@
+name: Vedran
+
+on:
+  push:
+    branches:
+      - 
