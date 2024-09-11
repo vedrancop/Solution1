@@ -100,3 +100,4 @@ C:\Users\Vedran\RiderProjects\Solution1\Tests\obj\Debug\net8.0\refint\Tests.dll
 C:\Users\Vedran\RiderProjects\Solution1\Tests\obj\Debug\net8.0\Tests.pdb
 C:\Users\Vedran\RiderProjects\Solution1\Tests\obj\Debug\net8.0\Tests.genruntimeconfig.cache
 C:\Users\Vedran\RiderProjects\Solution1\Tests\obj\Debug\net8.0\ref\Tests.dll
+C:\Users\Vedran\RiderProjects\Solution1\Tests\obj\Debug\net8.0\Tests.sourcelink.json

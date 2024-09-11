@@ -9,5 +9,7 @@
     &lt;TestId&gt;xUnit::B1A948F4-EDBB-4CB4-9E8D-B5366803BEEC::net8.0::Tests.UnitTest1.TestReverseString&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::B1A948F4-EDBB-4CB4-9E8D-B5366803BEEC::net8.0::Tests.UnitTest1.TestIsEaven&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::B1A948F4-EDBB-4CB4-9E8D-B5366803BEEC::net8.0::Tests.UnitTest1.TestFindMax&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B1A948F4-EDBB-4CB4-9E8D-B5366803BEEC::net8.0::Tests.UnitTest1.TestCountOccurrences&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B1A948F4-EDBB-4CB4-9E8D-B5366803BEEC::net8.0::Tests.UnitTest1.TestRemoveDuplicates&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

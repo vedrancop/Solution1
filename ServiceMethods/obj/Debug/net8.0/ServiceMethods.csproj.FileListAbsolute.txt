@@ -9,3 +9,4 @@ C:\Users\Vedran\RiderProjects\Solution1\ServiceMethods\obj\Debug\net8.0\ServiceM
 C:\Users\Vedran\RiderProjects\Solution1\ServiceMethods\obj\Debug\net8.0\refint\ServiceMethods.dll
 C:\Users\Vedran\RiderProjects\Solution1\ServiceMethods\obj\Debug\net8.0\ServiceMethods.pdb
 C:\Users\Vedran\RiderProjects\Solution1\ServiceMethods\obj\Debug\net8.0\ref\ServiceMethods.dll
+C:\Users\Vedran\RiderProjects\Solution1\ServiceMethods\obj\Debug\net8.0\ServiceMethods.sourcelink.json
